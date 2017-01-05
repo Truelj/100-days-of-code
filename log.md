@@ -13,7 +13,7 @@
 
 ### Day 1:  Jan 4, 2016
 
-**Today's Progress**: Reading a book called "HTML&CSS design and build websites", written by Jon Duckett. It's the third time that I have read this book in order to prepare myself for the front end of web development. Today, I reviewed HTML and HTML5, and I also racticed on HTML/HTML5 form controls.
+**Today's Progress**: Reading a book called "HTML&CSS design and build websites", written by Jon Duckett. It's the third time that I have read this book in order to prepare myself for the front end of web development. Today, I reviewed HTML and HTML5, and I also practiced on HTML/HTML5 form controls.
 
 **Thoughts:** Don't be afraid of forgetting something. Learning takes time.
 
