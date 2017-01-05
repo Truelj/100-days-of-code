@@ -3,7 +3,7 @@
 ##Plan
 **Day 0 -  Day 9:** Review the core JS and Client-side JS
 
-### Day 0:  Jan 3, 2016 (Example 1)
+### Day 0:  Jan 3, 2016 
 
 **Today's Progress**: Continue reading "JavaScript: the definitive guide". Spent 4 hours raeding Chapter 9, classes and Modules. Fished half. Stopped before Pg.220, Standard Vonversion Method. Started to code in JS again since last September, even though it's about moving codes from book to the local file system. 
 
@@ -11,6 +11,13 @@
 
 **Link to work:** [How to define a class in JS](https://github.com/Truelj/Start_web/tree/master/JavaScript%20study/Javascript-the%20def%20guide/Core%20js/Classes%20and%20Modules)
 
+### Day 1:  Jan 4, 2016
+
+**Today's Progress**: Reading a book called "HTML&CSS design and build websites", written by Jon Duckett. It's the third time that I have read this book in order to prepare myself for the front end of web development. Today, I reviewed HTML and HTML5, and I also racticed on HTML/HTML5 form controls.
+
+**Thoughts:** Don't be afraid of forgetting something. Learning takes time.
+
+**Link to work:** [create form controls using html5](https://github.com/Truelj/Start_web/tree/master/HTMLandCSS/HTML)
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
