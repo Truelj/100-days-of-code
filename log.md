@@ -18,6 +18,14 @@
 **Thoughts:** Don't be afraid of forgetting something. Learning takes time.
 
 **Link to work:** [create form controls using html5](https://github.com/Truelj/Start_web/tree/master/HTMLandCSS/HTML)
+
+### Day 2:  Jan 5, 2016
+
+**Today's Progress**: Continue reading a book called "HTML&CSS design and build websites", written by Jon Duckett. In addition to learning the rest content of HTML, I also reviewed some part of CSS. I learned what is Flash movie and video/audio players. I practiced on adding flash movie, video and audio to the webpage, and tested them by using Chrome and Firefox. 
+
+**Thoughts:** The flash video player that I use to play the .flv video doesn't work out in both Chrome and Firefox. I'm still confused about what's the difference between Adobe flash player and other flash players. What should I put in a html file in order to use the Adobe Flash player to play FLV files, as Adobe Flash player is plugged in most modern browsers.
+
+**Link to work:** [Flash Video Audio](https://github.com/Truelj/Start_web/tree/master/HTMLandCSS/HTML/Flash%20Video%20Audio)
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
