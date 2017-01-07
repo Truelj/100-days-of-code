@@ -29,10 +29,9 @@
 
 ### Day 3:  Jan 6, 2016
 
-**Today's Progress**: Refresh what I previously learned about the Core JS. Still learned something new. Write simple statements to test tricky parts like unicode escape sequences, even though they seem to be easily forgot in the near future.
+**Today's Progress**: Refresh what I previously learned about the Core JS. Still learned something new. Write simple statements on the browser console, in order to test tricky parts like unicode escape sequences, even though they seem to be easily forgotton in the near future.
 
 **Thoughts:** Learning is never like a linear process. I need to repeat refreshing my memory.
-
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
