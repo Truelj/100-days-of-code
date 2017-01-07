@@ -26,6 +26,13 @@
 **Thoughts:** The flash video player that I use to play the .flv video doesn't work out in both Chrome and Firefox. I'm still confused about what's the difference between Adobe flash player and other flash players. What should I put in a html file in order to use the Adobe Flash player to play FLV files, as Adobe Flash player is plugged in most modern browsers.
 
 **Link to work:** [Flash Video Audio](https://github.com/Truelj/Start_web/tree/master/HTMLandCSS/HTML/Flash%20Video%20Audio)
+
+### Day 3:  Jan 6, 2016
+
+**Today's Progress**: Refresh what I previously learned about the Core JS. Still learned something new. Write simple statements to test tricky parts like unicode escape sequences, even though they seem to be easily forgot in the near future.
+
+**Thoughts:** Learning is never like a linear process. I need to repeat refreshing my memory.
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
