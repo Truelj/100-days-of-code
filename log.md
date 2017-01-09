@@ -41,6 +41,14 @@
 
 **Link to work:** [Stack in JS] (https://github.com/Truelj/Start_web/tree/master/Java%20script%20projects/Core%20JS/Data%20Structure)
 
+## Day 6: Jan 8, 2016
+
+**Today's Progress**: Expand yester's project to build a simple calculator.
+
+**Thoughts:** Need more practices with data stracture and algorithms.
+
+**Link to work:** [A simple calculator] (https://github.com/Truelj/Start_web/tree/master/Java%20script%20projects/Core%20JS/simple%20calculator)
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
