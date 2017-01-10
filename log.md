@@ -56,7 +56,7 @@
 **Thoughts:** JavaScript class is so flexiable to use. It's cool that a function is both an object and also a class by itself. Implementing the idea of Enumeration makes me learn alot. If it's not because of my reviewing of Array's functions, I won't remember that Array has push() and pop() functions that make arrays act like stacks.
 
 **Link to work:** [An updated calculator.]
-https://github.com/Truelj/Start_web/tree/master/Java%20script%20projects/Core%20JS/simple%20calculator
+(https://github.com/Truelj/Start_web/tree/master/Java%20script%20projects/Core%20JS/simple%20calculator)
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
