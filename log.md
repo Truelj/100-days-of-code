@@ -3,7 +3,7 @@
 ##Plan
 **Day 1 -  Day 10:** Review the core JS and Client-side JS
 
-### Day 1:  Jan 3, 2016 
+### Day 1:  Jan 3, 2017 
 
 **Today's Progress**: Continue reading "JavaScript: the definitive guide". Spent 4 hours raeding Chapter 9, classes and Modules. Fished half. Stopped before Pg.220, Standard Vonversion Method. Started to code in JS again since last September, even though it's about moving codes from book to the local file system. 
 
@@ -11,7 +11,7 @@
 
 **Link to work:** [How to define a class in JS](https://github.com/Truelj/Start_web/tree/master/JavaScript%20study/Javascript-the%20def%20guide/Core%20js/Classes%20and%20Modules)
 
-### Day 2:  Jan 4, 2016
+### Day 2:  Jan 4, 2017
 
 **Today's Progress**: Reading a book called "HTML&CSS design and build websites", written by Jon Duckett. It's the third time that I have read this book in order to prepare myself for the front end of web development. Today, I reviewed HTML and HTML5, and I also practiced on HTML/HTML5 form controls.
 
@@ -19,7 +19,7 @@
 
 **Link to work:** [create form controls using html5](https://github.com/Truelj/Start_web/tree/master/HTMLandCSS/HTML)
 
-### Day 3:  Jan 5, 2016
+### Day 3:  Jan 5, 2017
 
 **Today's Progress**: Continue reading a book called "HTML&CSS design and build websites", written by Jon Duckett. In addition to learning the rest content of HTML, I also reviewed some part of CSS. I learned what is Flash movie and video/audio players. I practiced on adding flash movie, video and audio to the webpage, and tested them by using Chrome and Firefox. 
 
@@ -27,13 +27,13 @@
 
 **Link to work:** [Flash Video Audio](https://github.com/Truelj/Start_web/tree/master/HTMLandCSS/HTML/Flash%20Video%20Audio)
 
-### Day 4:  Jan 6, 2016
+### Day 4:  Jan 6, 2017
 
 **Today's Progress**: Refresh what I previously learned about the Core JS. Still learned something new. Write simple statements on the browser console, in order to test tricky parts like unicode escape sequences, even though they seem to be easily forgotton in the near future.
 
 **Thoughts:** Learning is never like a linear process. I need to repeat refreshing my memory.
 
-### Day 5: Jan 7-8, 2016
+### Day 5: Jan 7-8, 2017
 
 **Today's Progress**: Definitely put more effort than yesterday. Still did some review about the Core JS. Today's review topic is about "value, type and variable". Insprired by the Math object functions, I decided to create a Calcular by making use of these functions and also recall data structures. So I did some review about stack and then implemented the stack by using JS classes, which I learned on Jan 3. 
 
@@ -41,14 +41,22 @@
 
 **Link to work:** [Stack in JS] (https://github.com/Truelj/Start_web/tree/master/Java%20script%20projects/Core%20JS/Data%20Structure)
 
-## Day 6: Jan 8, 2016
+## Day 6: Jan 8, 2017
 
 **Today's Progress**: Expand yester's project to build a simple calculator.
 
 **Thoughts:** Need more practices with data stracture and algorithms.
 
-**Link to work:** [A simple calculator] (https://github.com/Truelj/Start_web/tree/master/Java%20script%20projects/Core%20JS/simple%20calculator)
+**Link to work:** [A simple calculator.] (https://github.com/Truelj/Start_web/tree/master/Java%20script%20projects/Core%20JS/simple%20calculator)
 
+## Day 7: Jan 9, 2017
+
+**Today's Progress:** Created an enumeartion class. Replace stack with Array functions like push() and pop(). Update my calculator. Review Array's built-in functions.
+
+**Thoughts:** JavaScript class is so flexiable to use. It's cool that a function is both an object and also a class by itself. Implementing the idea of Enumeration makes me learn alot. If it's not because of my reviewing of Array's functions, I won't remember that Array has push() and pop() functions that make arrays act like stacks.
+
+**Link to work:** [An updated calculator.]
+https://github.com/Truelj/Start_web/tree/master/Java%20script%20projects/Core%20JS/simple%20calculator
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
