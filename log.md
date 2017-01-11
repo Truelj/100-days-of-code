@@ -57,6 +57,16 @@
 
 **Link to work:** [An updated calculator.]
 (https://github.com/Truelj/Start_web/tree/master/Java%20script%20projects/Core%20JS/simple%20calculator)
+
+
+## Day 8: Jan 10, 2017
+
+**Today's Progress:** Create a Set data structure. Continue reading Chapter 9 "Classes and modules" of "JavaScript,The definitive guide". Practiced on functional programming for a little.
+
+**Thoughts:** Simply reading the code and understanding it is not enough. I have to code by myself, then I will find errors that I would make.
+
+**Link to work:** [Define standard conversion methods in your class]
+(https://github.com/Truelj/Start_web/tree/master/JavaScript%20study/Javascript-the%20def%20guide/Core%20js/Classes%20and%20Modules/Standard%20Conversion%20Methods)
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
